@@ -1,6 +1,6 @@
 Hoàng Tràn Phâu K56KMT.01 MSSV: K205480106022
 
-Hệ thống hiển thị tỷ giá đô la mỹ (USD)
+Hệ thống hiển thị tỷ và theo dõi giá đô la mỹ (USD)
 
 Cơ sở dữ liệu:
   - Bảng: forex_rates : Lưu thông tin về giá USD, các thông tin base (USD), to_currency (VND), rate (25441.20195), 
