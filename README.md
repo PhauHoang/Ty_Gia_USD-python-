@@ -16,5 +16,4 @@ Node-RED:
   - Node-RED sẽ gọi API Python (hoặc một dịch vụ khác) để lấy dữ liệu và thời gian cập nhật. Sau đó, dữ liệu này sẽ được truyền sang vào bảng forex_rates để lưu trữ.
 Web:
   - Xây dựng một ứng dụng web để hiển thị dữ liệu từ cơ sở dữ liệu.
-  - Hiển thị danh sách giá vàng và thời gian cập nhật hoặc biểu đồ các giá vàng theo thời gian.
   - Sử dụng các công nghệ như HTML, CSS, JavaScript để tạo giao diện web.
